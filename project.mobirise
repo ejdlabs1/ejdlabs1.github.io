@@ -60,7 +60,7 @@
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
     "imageResize": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
