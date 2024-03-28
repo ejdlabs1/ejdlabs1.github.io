@@ -2,7 +2,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 3.2rem;
   font-display: swap;
 }
@@ -1081,5 +1081,5 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-sp5D7r7L6L {
-  background-image: url("../../../assets/images/mbr.jpg");
+  background-image: url("../../../assets/images/mbr-1.jpg");
 }
