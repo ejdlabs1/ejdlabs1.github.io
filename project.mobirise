@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "mypinkbook-clone",
+    "name": "ejdlabs",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -63,14 +63,15 @@
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
     "imageResize": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "mbrsiteDomain": "6re2egpeez"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "EJD Labs",
+        "meta_descr": "Digital Solutions Provider",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
